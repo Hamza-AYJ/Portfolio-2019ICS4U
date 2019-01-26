@@ -40,4 +40,3 @@ Link to the Arduino Repo:
 </td>
     <td class="tg-yw4l"> 2 </td>
   </tr>
-</table>
