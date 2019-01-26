@@ -10,6 +10,7 @@ Link to the MicroBit Repo: https://github.com/andyung17/MicroBit
 Link to the Arduino Repo: 
 
 <h3>Khan Work</h3>
+<table class ="tg">
   <tr>
     <th class="tg-yw4l"><b>Khan Academy Subjects</b></th>
     <th class="tg-yw4l"><b>Projects</b></th>
