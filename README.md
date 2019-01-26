@@ -1,7 +1,14 @@
 # Portfolio2019 -- ICS4U
 
-Here is a summary of all the work I have done during this semester.
+Here is a summary of all the work I have done during this semester. 
 
+https://hamza-ayj.github.io/Portfolio-2019ICS4U/ 
+
+<h3>MicroBit Work: (Me, Andy, Nick)</h3>
+Link to the MicroBit Repo: https://github.com/andyung17/MicroBit 
+
+<h3>Arduino Work: (Me, Andy, Nick)</h3>
+Link to the Arduino Repo: 
 
 <h3>Khan Work</h3>
 <table class="tg">
@@ -35,11 +42,3 @@ Here is a summary of all the work I have done during this semester.
     <td class="tg-yw4l"> 2 </td>
   </tr>
 </table>
-
-<h3>MicroBit Work: (Me, Andy, Nick)</h3>
-Link to the MicroBit Repo: https://github.com/andyung17/MicroBit 
-
-<h3>Arduino Work: (Me, Andy, Nick)</h3>
-Link to the Arduino Repo: 
-
-https://hamza-ayj.github.io/Portfolio-2019ICS4U/
