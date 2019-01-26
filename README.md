@@ -1,4 +1,4 @@
-# Portfolio-2019ICS4U
+# Portfolio2019 -- ICS4U
 
 Here is a summary of all the work I have done during this semester.
 
