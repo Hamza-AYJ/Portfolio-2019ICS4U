@@ -2,7 +2,6 @@
 
 Here is a summary of all the work I have done during this semester. 
 
-https://hamza-ayj.github.io/Portfolio-2019ICS4U/ 
 
 <h3>MicroBit Work: (Me, Andy, Nick)</h3>
 Link to the MicroBit Repo: https://github.com/andyung17/MicroBit 
