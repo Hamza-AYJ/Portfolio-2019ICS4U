@@ -7,7 +7,7 @@ Here is a summary of all the work I have done during this semester.
 Link to the MicroBit Repo: https://github.com/andyung17/MicroBit 
 
 <h3>Arduino Work: (Me, Andy, Nick)</h3>
-Link to the Arduino Repo: 
+Link to the Arduino Repo: https://github.com/andyung17/ICS4U/tree/master/ProjectBoard
 
 <h3>Khan Work</h3>
 <table class ="tg">
