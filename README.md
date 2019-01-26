@@ -3,7 +3,7 @@
 Here is a summary of all the work I have done during this semester.
 
 
-<h2>Khan Work</h2>
+<h3>Khan Work</h3>
 <table class="tg">
   <tr>
     <th class="tg-yw4l"><b>Khan Academy Subjects</b></th>
@@ -35,3 +35,7 @@ Here is a summary of all the work I have done during this semester.
     <td class="tg-yw4l"> 2 </td>
   </tr>
 </table>
+
+<h3>MicroBit Work: (Me, Andy, Nick)</h3>
+Link to the MicroBit Repo: https://github.com/andyung17/MicroBit 
+
