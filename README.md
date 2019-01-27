@@ -63,10 +63,13 @@ Link to the MicroBit Repo: https://github.com/andyung17/MicroBit
 Link to the Arduino Repo: https://github.com/andyung17/ICS4U/tree/master/ProjectBoard
 
 <h4>Here are links to the repos where all the khan academy work is stored:</h4>
+
 Intro To JS: https://github.com/Hamza-AYJ/Portfolio2019--ICS4U/tree/master/Into%20To%20JS
+
 
 Advanced JS: Natural Simulations: https://github.com/Hamza-AYJ/Portfolio2019--ICS4U/tree/master/Advanced%20JS-%20Natural%20Simulations
 
-Making webpages interactive with jQuery:
+Making webpages interactive with jQuery: https://github.com/Hamza-AYJ/Portfolio2019--
+ICS4U/tree/master/Making%20webpages%20interactive%20with%20jQuery 
 
 Algorithms: https://github.com/Hamza-AYJ/Portfolio2019--ICS4U/tree/master/Algorithms 
