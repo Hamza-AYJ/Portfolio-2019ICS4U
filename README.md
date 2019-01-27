@@ -65,7 +65,7 @@ Link to the Arduino Repo: https://github.com/andyung17/ICS4U/tree/master/Project
 <h4>Here are links to the repos where all the khan academy work is stored:</h4>
 Intro To JS: https://github.com/Hamza-AYJ/Portfolio2019--ICS4U/tree/master/Into%20To%20JS
 
-Advanced JS: Natural Simulations: 
+Advanced JS: Natural Simulations: https://github.com/Hamza-AYJ/Portfolio2019--ICS4U/tree/master/Advanced%20JS-%20Natural%20Simulations
 
 Making webpages interactive with jQuery:
 
