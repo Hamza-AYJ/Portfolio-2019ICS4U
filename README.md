@@ -69,6 +69,4 @@ Advanced JS: Natural Simulations: https://github.com/Hamza-AYJ/Portfolio2019--IC
 
 Making webpages interactive with jQuery:
 
-Algorithms: 
-
-Intro to SQL: Querying and managing data: 
+Algorithms: https://github.com/Hamza-AYJ/Portfolio2019--ICS4U/tree/master/Algorithms 
