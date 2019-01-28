@@ -80,5 +80,5 @@ ICS4U/tree/master/Making%20webpages%20interactive%20with%20jQuery
 
 Algorithms: https://github.com/Hamza-AYJ/Portfolio2019--ICS4U/tree/master/Algorithms 
 
-Projects: [Pic1](https://github.com/Hamza-AYJ/Portfolio2019--ICS4U/blob/master/Advanced%20JS-%20Natural%20Simulations/MountainRange.jpeg)
+Projects: <img src = "https://github.com/Hamza-AYJ/Portfolio2019--ICS4U/blob/master/Advanced%20JS-%20Natural%20Simulations/MountainRange.jpeg">
 
