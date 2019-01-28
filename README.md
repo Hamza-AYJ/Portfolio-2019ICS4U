@@ -1,7 +1,7 @@
 # Portfolio2019 -- ICS4U
 
 Here is a summary of all the work I have done during this semester. 
-
+<body>
 <h3>Khan Work</h3>
 <table class ="tg">
   <tr>
@@ -79,6 +79,6 @@ Making webpages interactive with jQuery: https://github.com/Hamza-AYJ/Portfolio2
 ICS4U/tree/master/Making%20webpages%20interactive%20with%20jQuery 
 
 Algorithms: https://github.com/Hamza-AYJ/Portfolio2019--ICS4U/tree/master/Algorithms 
-
+</body>
 Projects: <img src = "https://github.com/Hamza-AYJ/Portfolio2019--ICS4U/blob/master/Advanced%20JS-%20Natural%20Simulations/MountainRange.jpeg">
 
