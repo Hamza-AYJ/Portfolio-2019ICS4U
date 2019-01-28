@@ -80,5 +80,17 @@ ICS4U/tree/master/Making%20webpages%20interactive%20with%20jQuery
 
 Algorithms: https://github.com/Hamza-AYJ/Portfolio2019--ICS4U/tree/master/Algorithms 
 </body>
-Projects: <img src = "https://github.com/Hamza-AYJ/Portfolio2019--ICS4U/blob/master/Advanced%20JS-%20Natural%20Simulations/MountainRange.jpeg">
+
+<img src = "https://github.com/Hamza-AYJ/Portfolio2019--ICS4U/blob/master/Advanced%20JS-%20Natural%20Simulations/MountainRange.jpeg">
+<img src = "https://github.com/Hamza-AYJ/Portfolio2019--ICS4U/blob/master/Algorithms/selection.jpeg">
+<img src = "https://github.com/Hamza-AYJ/Portfolio2019--ICS4U/blob/master/Advanced%20JS-%20Natural%20Simulations/paint.jpeg">
+<img src = "https://github.com/Hamza-AYJ/Portfolio2019--ICS4U/blob/master/Advanced%20JS-%20Natural%20Simulations/Ship.jpeg">
+<img src = "https://github.com/Hamza-AYJ/Portfolio2019--ICS4U/blob/master/Advanced%20JS-%20Natural%20Simulations/Attractors.jpeg">
+<img src = "https://github.com/Hamza-AYJ/Portfolio2019--ICS4U/blob/master/Into%20To%20JS/Duck.jpeg">
+<img src = "https://github.com/Hamza-AYJ/Portfolio2019--ICS4U/blob/master/Into%20To%20JS/flexseal.jpeg">
+<img src = "https://github.com/Hamza-AYJ/Portfolio2019--ICS4U/blob/master/Into%20To%20JS/food.jpeg">
+<img src = "https://github.com/Hamza-AYJ/Portfolio2019-ICS4U/blob/master/Making%20webpages%20interactive%20with%20jQuery/scramble.jpeg">
+<img src = "https://github.com/Hamza-AYJ/Portfolio2019--ICS4U/blob/master/Making%20webpages%20interactive%20with%20jQuery/pond.jpeg">
+<img src = "https://github.com/Hamza-AYJ/Portfolio2019--ICS4U/blob/master/Algorithms/recursive.jpeg">
+
 
