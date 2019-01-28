@@ -56,6 +56,12 @@ different sides to coding. Aspects of interrative software and object oriented c
 to discover what really makes code efficient. Algorithms are another element of computer science where we were able to incorporate the 
 use of algorithms and the rubiks cubes to provide a better understanding of these patterns.
 
+<h3>Future Learning:</h3>
+Free code camp is something that I will definetly be starting after exams, as well as continued work flow on khan academy.
+I also wish to expand my knowledge on other coding languages, and perfecting the ones that I currently know. 
+Python, Ruby, and Full Stack are all on my list for languages to learn. Furthermore, if I take computer science in university, then 
+I will definetly learn more languages and perfect them. 
+
 <h3>MicroBit Work: (Me, Andy, Nick)</h3>
 Link to the MicroBit Repo: https://github.com/andyung17/MicroBit 
 
